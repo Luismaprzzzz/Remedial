@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  margin: 0px auto;
+   }
+
+   * {
+  box-sizing: border-box;
+  margin: 0px auto;
+  }
+
+   body{
+ background: #085078;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #85D8CE, #085078);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #85D8CE, #085078); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+   }
+
+   .navegacion {
+    background: #E0EAFC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border:none;
+    padding: 10px;
+    font-size: 40px;
+    padding:10px;
+    }
+    .navegacion h2{
+    color:black;
+
+    }
+
+
+   .container1 p{
+    display: table;
+        width: 50%;
+        height:40px;
+        font: bold 22px Arial;
+        color:#FFFFFF;
+        padding:10px;
+   }
+
+   .container1 img{
+      display: table;
+    width: 50%;
+    height:300px;
+    img-align: center;
+    padding:10px;
+
+   }
